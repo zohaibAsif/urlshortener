@@ -1,7 +1,7 @@
 # URL Shortener
 Gophercises Project 2: URL Shortener
 
-# Command
+# After cloning, run the project using
 
 go run main/main.go
 
